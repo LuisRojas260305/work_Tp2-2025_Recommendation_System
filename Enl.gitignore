@@ -1,0 +1,9 @@
+# Archivos generados por Dev-C++
+*.exe
+*.o
+*.tds
+Output/
+Objects/
+
+# Archivos del sistema
+.DS_Store
