@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1750613261 source:c:\users\usuario\documents\systema_recomendacion\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<cctype>
+	<algorithm>
+	<iomanip>
+
